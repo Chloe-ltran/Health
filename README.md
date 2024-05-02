@@ -10,7 +10,7 @@
         }
         .text {
             position: absolute;
-            top: 15%;
+            top: 5%;
             left: 50%; /* Adjust left position to align text to the left */
             transform: translateX(-50%);
             color: white;
