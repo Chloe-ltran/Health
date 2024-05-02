@@ -15,7 +15,7 @@
             transform: translate(-50%, -50%);
             color: white;
             text-align: left; /* Align text to the left */
-            width: 40%; /* Set width to 90% to ensure it fits within the container */
+            width: 10%; /* Set width to 90% to ensure it fits within the container */
         }
     </style>
 </head>
@@ -23,7 +23,7 @@
     <div class="container">
         <img src="https://raw.githubusercontent.com/Chloe-ltran/Health/main/healthbanner.png" alt="Your Image" style="width:100%;">
         <div class="text">
-            "I assisted business owners in optimizing benefits and operational efficiency."
+            "Contribute to a Healthy Community"
         </div>
     </div>
 </body>
