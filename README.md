@@ -47,7 +47,7 @@
         <a href="Coming soon" style="background-color: #6495ED; color: #ffffff; padding: 20px; border-radius: 5px; text-decoration: none; display: inline-block;">Chest Disease Detection</a>
     </div>
     <div style="flex: 60%;">
-        AI-Powered Chest Disease Detection and Classification
+        AI-Powered Chest Disease Detection and Classification (Coming soon)
     </div>
 </div>
 
